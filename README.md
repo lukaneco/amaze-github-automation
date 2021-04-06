@@ -1,6 +1,8 @@
 # amaze-github-automation
-GitHub issue automation api function
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lukaneco/amaze-github-automation)
+GitHub issue automation api function
+
+
 
 
 API responsible to be used along with this [GitHub app](https://github.com/apps/amaze-issue-automation)
