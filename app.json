@@ -1,0 +1,7 @@
+{
+  "name": "Amaze Issue Automation",
+  "description": "Want to automate GitHub issue creation? Use this app and get away with the burden of implementing GitHub authentication APIs",
+  "repository": "https://github.com/lukaneco/amaze-github-automation",
+  "logo": "https://avatars.githubusercontent.com/ml/8890?s=60&v=4",
+  "keywords": ["go", "github", "api"]
+}
